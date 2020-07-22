@@ -1,26 +1,0 @@
-https://jinja.palletsprojects.com/en/2.11.x/
-https://mystery.knightlab.com/
-https://mystery.knightlab.com/walkthrough.html
-https://www.djangoproject.com/start/
-https://docs.djangoproject.com/en/stable/intro/tutorial01/
-
-https://hazelcast.com/
-https://en.wikipedia.org/wiki/Hazelcast
-grpc python
-https://docs.python.org/3/library/operator.html
-*  New to Python - focus on learning Python
-*  New to Django/web frameworks - Django tutorial
-*  Intermediate Django - try out PythonRQ and background tasks
-*  Don’t know SQL - SQL murder mystery 
-* None of the above - read whatever interests you, perhaps gRPC and protocol buffers
-
- darshan.r@media.net
- tahaa.k@media.net
- subject prefix: "[python-training]"
- attach  the following as part of a single git repo
-1. multiprocessing 
-2. Graphite check script
- 3. Django tutorial run through 
-4. Any other code that you’ve written as part of these two days
-https://window-swap.com/window
- https://pointerpointer.com/
